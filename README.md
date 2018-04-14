@@ -1,1 +1,2 @@
 # liyi
+print("hello world");
